@@ -21,7 +21,17 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<img height="150em" float="left" alt="romadryud's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=romadryud&show_icons=true" />
-<img height="150em" float="right" alt="romadryud's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romadryud&theme=vue&layout=compact" />
+<img height="150em" align="left" alt="romadryud's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=romadryud&show_icons=true" />
+<img height="150em" align="right" alt="romadryud's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romadryud&theme=vue&layout=compact" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 To be continued ....
