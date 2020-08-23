@@ -22,7 +22,7 @@
 
 To be continued ....
 
-<img height="170em" align="left" alt="romadryud's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=romadryud&show_icons=true" />
-<img height="170em" align="right" alt="romadryud's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romadryud&theme=vue&layout=compact" />
+<img height="160em" align="left" alt="romadryud's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=romadryud&show_icons=true" />
+<img height="160em" align="right" alt="romadryud's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romadryud&theme=vue&layout=compact" />
 
 
