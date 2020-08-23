@@ -1,6 +1,6 @@
 ![Preview](https://github.com/romadryud/romadryud/blob/master/assets/preview.png?raw=true)
 
-### Hello world!, I'm Raman - aka [Frontend Jedi](https://www.youtube.com/channel/UC3YV2l9Ymci0R98Vk_qUHOQ)
+### Hello world! I'm Raman - aka [Frontend Jedi](https://www.youtube.com/channel/UC3YV2l9Ymci0R98Vk_qUHOQ)
 
 ## I'm a passionate Frontend Developer
 [![](https://img.shields.io/badge/-Raman%20Aktsisiuk-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ramanaktsisiuk/)
